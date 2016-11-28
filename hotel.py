@@ -25,6 +25,8 @@ def new_day():
         pass
     elif selection == "h":
         pass
+    elif selection == "help": #muss da sein, name egal
+        pass
     else:
         print("Invalid input! Please try again.")
 
@@ -43,3 +45,17 @@ def set_startvalues(n, m, d, p_i, s_k_l):
     print(n)
 
 set_startvalues(2, 4, 5, -10, 0)
+
+###Noch kein nutzen, dienen zur orientierung
+
+def city(name, hotel, manager, streets):
+    
+    #stadt, und was dazu gehört
+
+
+def income(n, m, d, p_i, s_k_l):
+    #einkommen
+
+
+def hometown
+    #ma gucke
